@@ -1,0 +1,61 @@
+{
+  "paper": "SuperBL",
+  "pages": {
+    "1": {
+      "content": {
+        "image": [
+          {
+            "src": "qweqwe-1.jpg",
+            "pos": [30, 30],
+            "width": 355,
+            "height": 231.5,
+            "scale": "fit"
+          },
+          {
+            "src": "qweqwe-2.jpg",
+            "pos": [445, 30],
+            "width": 355,
+            "height": 231.5,
+            "scale": "fill"
+          },
+          {
+            "src": "qweqwe-3.jpg",
+            "pos": [30, 321.5],
+            "width": 355,
+            "height": 231.5,
+            "scale": "fit"
+          },
+          {
+            "src": "qweqwe-4.jpg",
+            "pos": [445, 321.5],
+            "width": 355,
+            "height": 231.5,
+            "scale": "fit"
+          }
+        ],
+        "text": [
+          {
+            "pos": [35, 15],
+            "value": "qweqwe-1.jpg",
+            "font": { "name": "Helvetica", "size": 14, "col": "#333333" }
+          },
+          {
+            "pos": [450, 15],
+            "value": "qweqwe-2.jpg",
+            "font": { "name": "Helvetica", "size": 14, "col": "#333333" }
+          },
+          {
+            "pos": [35, 306.5],
+            "value": "qweqwe-3.jpg",
+            "font": { "name": "Helvetica", "size": 14, "col": "#333333" }
+          },
+          {
+            "pos": [450, 306.5],
+            "value": "qweqwe-4.jpg",
+            "font": { "name": "Helvetica", "size": 14, "col": "#333333" }
+          }
+        ]
+      }
+    }
+  }
+}
